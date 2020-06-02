@@ -6,8 +6,6 @@ import json,struct
 import os,hashlib
 client = socket.socket()
 client.connect(("localhost",6969))
-#f1 = open("mysql.tar.gz","wb")
-#f1 = open("aaa.text","wb")
 
 #存放包头信息
 head_syn = {
@@ -68,12 +66,6 @@ while True:
         else:
             print("文件有差错....")
 
-        #while True:
-            #client.send(mgs.encode("utf-8"))
-            #data = client.recv(1024000)
-            #print("revc:",data.decode())
-            #f1.write(data)
-            #f1.flush()
     except json.decoder.JSONDecodeError as key:
         print("文件不存在....")
 

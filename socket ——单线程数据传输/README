@@ -1,0 +1,20 @@
+Author: anliu
+Blog: https://home.cnblogs.com/u/anttech
+MailBox: ljwenjie66@163.com
+Version: V1.0
+
+This project is a file transfer script developed under Python single thread.
+The running environment requirements are as follows:
+
+Operating System:
+Centos 7.4
+Windows 10
+
+Python Version:
+python 3.7.3
+
+Dependency Package:
+os,sys,socket,hashlib,json,struct
+
+file_server: Server script
+file_client: Client script

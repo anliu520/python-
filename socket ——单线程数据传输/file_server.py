@@ -24,8 +24,8 @@ while True:
     while True:
         try:
             data_sec = conn.recv(1024).decode()
-            #data = eval(data_sec)
             data = json.loads(data_sec)
+            #data = eval(data_sec)
             print("recv:",type(data))
             print(os.path.join(data["filepath"],data["filename"]))
             #data = eval(data)
@@ -55,15 +55,6 @@ while True:
                 conn.send(b"The file doesn't exsit...")
 
 
-            #f1 = open(os.path.join(data["filepath"],data["filename"]),"rb")
-            #for line in f1:
-            #   print(f1.readable())
-                #print(reg)
-                #conn.send(reg.encode())
-            #    conn.send(line)
-            #    print("yifasong")
-                #num += 1
-                #if num > 10: break
         except ConnectionResetError as key1:
             break
         except json.decoder.JSONDecodeError as key2:
