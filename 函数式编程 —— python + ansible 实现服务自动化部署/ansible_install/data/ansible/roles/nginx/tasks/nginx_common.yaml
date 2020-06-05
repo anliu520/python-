@@ -1,0 +1,12 @@
+- name: download nginx package
+  copy: src=/etc/ansible/roles/nginx/files/nginx-1.14.0.tar.gz dest=/server/tools/nginx-1.14.0.tar.gz
+
+- name: Decompression file
+  command: >
+    tar -C /usr/local/src -xvf /server/tools/nginx-1.14.0.tar.gz
+
+- name: install nginx
+  shell: cd /usr/local/src/nginx-1.14.0;./configure --prefix=/opt/data/nginx  --user=nginx --group=nginx --with-http_ssl_module --with-http_stub_status_module;make && make install
+
+- name: create link dir
+  file: src=/opt/data/nginx/conf dest=/etc/nginx state=link

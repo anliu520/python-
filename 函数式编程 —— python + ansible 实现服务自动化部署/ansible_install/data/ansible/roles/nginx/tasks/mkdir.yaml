@@ -1,0 +1,4 @@
+- name:
+  command: >
+    mkdir -p /server/tools
+    mkdir -p /opt/data/nginx

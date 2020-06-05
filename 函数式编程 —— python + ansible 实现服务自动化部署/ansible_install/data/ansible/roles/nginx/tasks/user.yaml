@@ -1,0 +1,2 @@
+- name: create user for nginx_pro
+  user: name=nginx shell=/sbin/nologin/ state=present

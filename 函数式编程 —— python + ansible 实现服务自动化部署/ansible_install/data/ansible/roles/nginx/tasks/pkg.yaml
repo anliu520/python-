@@ -1,0 +1,7 @@
+- name: installing Dependency package
+  yum: name={{ item }} state=latest
+  with_items:
+     - pcre-devel
+     - openssl-devel
+     - gcc-c++
+     - make

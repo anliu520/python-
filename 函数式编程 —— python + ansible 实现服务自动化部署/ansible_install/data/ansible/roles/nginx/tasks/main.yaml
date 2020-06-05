@@ -1,0 +1,7 @@
+- include: pkg.yaml
+- include: user.yaml
+- include: mkdir.yaml
+- include: nginx_common.yaml
+- include: install_mkdir.yaml
+- include: nginx_file.yaml
+- include: start.yaml

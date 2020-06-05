@@ -1,0 +1,6 @@
+- name:
+  command: >
+    mkdir -p /etc/nginx/conf.d
+    mkdir -p /var/log/nginx
+- name:
+  file: dest=/var/log/nginx owner=nginx group=nginx

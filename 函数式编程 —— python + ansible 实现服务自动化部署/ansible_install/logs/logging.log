@@ -1,0 +1,155 @@
+2020-06-04 10:01:44,466 - simpleExample - DEBUG - create ./data/ansible existence
+2020-06-04 10:52:50,741 - simpleExample - ERROR - [Errno 2] No such file or directory: '../data/ansible/role'
+2020-06-04 10:56:33,863 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:01:09,204 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:01:09,204 - simpleExample - ERROR - [Errno 2] No such file or directory: '../data/ansible/role'
+2020-06-04 11:02:14,568 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:02:14,568 - simpleExample - ERROR - [Errno 2] No such file or directory: '../data/ansible/roles'
+2020-06-04 11:05:08,953 - simpleExample - ERROR - [Errno 2] No such file or directory: '../data/ansible/roles'
+2020-06-04 11:05:59,655 - simpleExample - ERROR - [Errno 2] No such file or directory: '../data/ansible/roles'
+2020-06-04 11:07:58,361 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,361 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,361 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,362 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,362 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,362 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:07:58,362 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:30,164 - simpleExample - ERROR - [Errno 2] No such file or directory: '/opt/ansible_install/data/ansible/roles1'
+2020-06-04 11:09:55,870 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 11:09:55,871 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,003 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,003 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,004 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,004 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,004 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,004 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:14:40,005 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,255 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,256 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:16:57,257 - simpleExample - ERROR - unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-06-04 18:21:31,180 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,180 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,180 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,180 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,181 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,181 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,181 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:21:31,181 - simpleExample - ERROR - unsupported operand type(s) for +: 'NoneType' and 'str'
+2020-06-04 18:23:30,388 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:23:30,389 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,707 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,707 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,708 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,708 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,708 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,708 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:26:30,708 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,993 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,993 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,993 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,994 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,994 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,994 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:28:34,994 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,974 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,974 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,974 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,975 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,975 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,975 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:32:00,975 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,636 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,637 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,637 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,637 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,637 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,637 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 18:41:48,638 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 20:19:35,753 - simpleExample - DEBUG - create ./data/ansible exist
+2020-06-04 20:24:23,904 - simpleExample - ERROR - [Errno 2] No such file or directory: '/opt/ansible_install/data/ansible/roles1'
+2020-06-04 20:56:07,642 - simpleExample - ERROR - [Errno 2] No such file or directory: '/opt/ansible_install/data/ansible/roles1'
+2020-06-04 21:04:48,969 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:04:48,970 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,001 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,001 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,001 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,002 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,002 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,002 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-04 21:24:29,002 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 08:48:33,779 - simpleExample - DEBUG - Whether the group name already exists needs to be updated
+2020-06-05 08:51:20,067 - simpleExample - ERROR - local variable 'flag' referenced before assignment
+2020-06-05 08:56:43,122 - simpleExample - ERROR - local variable 'flag' referenced before assignment
+2020-06-05 09:41:03,541 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,541 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,541 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,542 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,542 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,542 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:41:03,542 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,100 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,101 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:43:05,102 - simpleExample - ERROR - local variable 'flag' referenced before assignment
+2020-06-05 09:44:46,391 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,391 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:44:46,392 - simpleExample - ERROR - local variable 'flag' referenced before assignment
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:45:42,297 - simpleExample - DEBUG - create ./data/ansible/roles exist
+2020-06-05 09:46:14,646 - simpleExample - DEBUG - Whether the group name already exists needs to be updated
+2020-06-05 09:47:08,659 - simpleExample - DEBUG - Whether the group name already exists needs to be updated
+2020-06-05 10:58:31,350 - simpleExample - ERROR - 'NoneType' object is not iterable
+2020-06-05 11:00:55,103 - simpleExample - ERROR - can only concatenate str (not "NoneType") to str
+2020-06-05 11:07:36,407 - simpleExample - ERROR - can only concatenate str (not "NoneType") to str
+2020-06-05 11:09:09,847 - simpleExample - ERROR - can only concatenate str (not "NoneType") to str
+2020-06-05 11:09:48,471 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:10:17,078 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:10:29,440 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:12:23,148 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:15:26,399 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:15:49,336 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:16:30,939 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:16:33,771 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:21:11,221 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:24:39,536 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:24:41,959 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:25:09,199 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:25:11,457 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:37:46,484 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:38:24,343 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:39:16,165 - simpleExample - ERROR - groupname is exist...
+2020-06-05 11:40:11,767 - simpleExample - ERROR - groupname is exist...
