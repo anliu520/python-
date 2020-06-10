@@ -1,0 +1,12 @@
+apiVersion: v2
+kind: deployment
+metadata:
+  labels:
+    app: myapp-opd
+    version: v3
+  name: anliu
+spec:
+  containers:
+  - image: hub.anliu.com/library/nginx:v1.0
+    images: images
+    name: myapp

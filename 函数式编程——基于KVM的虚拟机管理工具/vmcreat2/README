@@ -1,0 +1,20 @@
+Author: anliu
+Blog: https://home.cnblogs.com/u/anttech
+MailBox: ljwenjie66@163.com
+Version: V1.0
+
+This program is a management tool of KVM virtual machine which is realized by functional programming. 
+The virtual machine is constructed by copying configuration file and disk file, 
+and the definition and start of virtual machine is realized finally.
+
+Operating System:
+CentOS Linux release 7.4.1708 (Core)
+
+Python Version:
+python 3.7.3
+
+bin: Executable file, general entry of program
+conf: Profile of the service
+core: Core code, including method dispatch interface
+data: Data related to ansible
+logs: log file

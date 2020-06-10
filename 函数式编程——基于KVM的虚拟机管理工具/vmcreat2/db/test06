@@ -1,0 +1,1 @@
+{"vm_name": "test06", "vm_type": "linux", "vm_cpu_max": "3", "vm_cpu_curr": "1", "vm_mem_max": 3145728, "vm_mem_curr": 1048576, "vm_vnc_port": "5920"}

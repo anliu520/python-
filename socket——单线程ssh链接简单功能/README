@@ -1,0 +1,14 @@
+Author: anliu
+Blog: https://home.cnblogs.com/u/anttech
+MailBox: ljwenjie66@163.com
+Version: V1.0
+
+The function of this program is based on the SSH link function \
+between Linux and windows under the single thread.
+Linux system as the service end,windows system as the client.
+
+Operating System:
+CentOS Linux release 7.4.1708 (Core)
+Windows 10 旗舰版
+
+
